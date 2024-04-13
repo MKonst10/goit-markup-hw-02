@@ -17,7 +17,7 @@ button {
 }
 
 .logo {
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway", "Roboto", sans-serif;
   color: #4d5ae5;
   font-size: 18px;
   font-weight: 700;
@@ -48,13 +48,15 @@ button {
 .address {
     font-style: normal;
 }
+
+
 .address-list > li {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
-.address-item {
+.address-list > li > a {
   color: #434455;
   text-decoration: none;
 
