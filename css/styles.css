@@ -55,8 +55,9 @@ button {
 }
 
 .address-item {
-  color: inherit;
+  color: #434455;
   text-decoration: none;
+
 }
 
 .address-list > li > a:hover,
